@@ -1,7 +1,7 @@
 # AR.js playground
 
 ## Demo
-[Try out the AR.js Demo Playground](https://nicolocarpignoli.github.io/ar-playground/)
+[Try out the AR.js Demo Playground](http://yaffa16.github.io/)
 
 ## Articles
 
